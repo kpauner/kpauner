@@ -27,8 +27,7 @@ I'm Khend, a front-end developer student.
 ### Learning goals
 
 ![PostHog Badge](https://img.shields.io/badge/PostHog-000?logo=posthog&logoColor=fff&style=for-the-badge)
-![Hono Badge](https://img.shields.io/badge/PostHog-000?logo=posthog&logoColor=fff&style=for-the-badge](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff&style=for-the-badge))
-
+![Hono Badge](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff&style=for-the-badge)
 ![Drizzle Badge](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000&style=for-the-badge)
 ![Stripe Badge](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=for-the-badge)
 ![Cypress Badge](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge)
