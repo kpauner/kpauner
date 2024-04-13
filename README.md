@@ -26,14 +26,13 @@ I'm Khend, a front-end developer student.
 ### Learning goals
 
 ![Greensock Badge](https://img.shields.io/badge/GreenSock-88CE02?logo=greensock&logoColor=fff&style=for-the-badge)
-![Threejs Badge]([https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge))
+![Threejs Badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge)
 ![PostHog Badge](https://img.shields.io/badge/PostHog-000?logo=posthog&logoColor=fff&style=for-the-badge)
 ![Hono Badge](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff&style=for-the-badge)
 ![Sentry Badge](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=for-the-badge)
 ![Stripe Badge](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=for-the-badge)
 ![Cypress Badge](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-
 
 <!--
 **kpauner/kpauner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
