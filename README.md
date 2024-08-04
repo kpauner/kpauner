@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Khend, a front-end developer student.
+I'm Khend, a Jr. Frontend Developer and hobby entrepreneur.
 
-- 🔭 I’m currently stuying at ... Roskilde Tekniske Skole
+- 🔭 Studied at ... Roskilde Tekniske Skole
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I was quite the beast at chess, when i was a kid.
 
