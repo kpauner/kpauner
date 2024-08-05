@@ -15,7 +15,7 @@ I'm Khend, a Jr. Frontend Developer and hobby entrepreneur.
 ![Zod Badge](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=for-the-badge)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![PostHog Badge](https://img.shields.io/badge/PostHog-000?logo=posthog&logoColor=fff&style=for-the-badge)
 ![Pocketbase](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=PocketBase&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)
@@ -27,7 +27,6 @@ I'm Khend, a Jr. Frontend Developer and hobby entrepreneur.
 
 ![Greensock Badge](https://img.shields.io/badge/GreenSock-88CE02?logo=greensock&logoColor=fff&style=for-the-badge)
 ![Threejs Badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge)
-![PostHog Badge](https://img.shields.io/badge/PostHog-000?logo=posthog&logoColor=fff&style=for-the-badge)
 ![Hono Badge](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff&style=for-the-badge)
 ![Nestjs Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Sentry Badge](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=for-the-badge)
