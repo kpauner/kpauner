@@ -26,6 +26,7 @@ I'm Khend, a Jr. Frontend Developer and hobby entrepreneur.
 ### Learning goals
 
 ![Greensock Badge](https://img.shields.io/badge/GreenSock-88CE02?logo=greensock&logoColor=fff&style=for-the-badge)
+![Expo Badge](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=flat)
 ![Threejs Badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge)
 ![Hono Badge](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff&style=for-the-badge)
 ![Nestjs Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
