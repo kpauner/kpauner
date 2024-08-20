@@ -4,7 +4,7 @@ I'm Khend, a Jr. Frontend Developer and hobby entrepreneur.
 
 - 🔭 Studied at ... Roskilde Tekniske Skole
 - ⚡ Fun fact: ... I was quite the beast at chess, when i was a kid.
-- 😄 Currently learning: React Native/Expo.
+- 🤓 Currently learning: React Native/Expo.
 
 ### Current Stack
 
